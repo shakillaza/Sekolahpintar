@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI School Management System",
+  "description": "Enterprise Education Cloud Platform v5.0 — AI-Powered School Operating System and SaaS platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
